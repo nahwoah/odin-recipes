@@ -1,0 +1,34 @@
+body{
+    background-color: #faf1c8cb;
+}
+
+.container{
+    
+    font-family: Verdana, sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    align-items: center; 
+
+}
+
+/*
+.title1{
+    text-align: center;
+}
+*/
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.ingredients{
+    display: block;
+    margin: 50px;
+}
+
+.navbar{
+    width: 600px;
+    margin: 0 auto;
+}

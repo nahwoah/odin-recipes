@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color:#46404df0;
+}
+
+* {
+    color:rgb(252, 224, 252);
+}
+
+.alert-text{
+    color: hsl(15, 82%, 56%);
+    }
+
+#title {
+    background-color: rgb(30, 255, 0);
+    color: coral;
+}
