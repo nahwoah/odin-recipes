@@ -2,12 +2,17 @@ body{
     background-color: #faf1c8cb;
 }
 
+.navbar{
+    width: 600px;
+    margin: 0 auto;
+    font-family: Verdana, sans-serif;
+}
+
 .container{
     
     font-family: Verdana, sans-serif;
-    width: 600px;
-    margin: 0 auto;
-    align-items: center; 
+    width: 110%;
+    margin: auto;
 
 }
 
@@ -28,7 +33,3 @@ img{
     margin: 50px;
 }
 
-.navbar{
-    width: 600px;
-    margin: 0 auto;
-}
